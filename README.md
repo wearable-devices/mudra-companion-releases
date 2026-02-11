@@ -7,3 +7,6 @@ Download the latest Mudra Companion from the [Releases](https://github.com/weara
 - **Windows**: [MudraCompanion-Windows.zip](https://github.com/wearable-devices/mudra-companion-releases/releases/latest/download/MudraCompanion-Windows.zip)
 - **macOS**: [MudraCompanion-macOS.zip](https://github.com/wearable-devices/mudra-companion-releases/releases/latest/download/MudraCompanion-macOS.zip)
 
+## Claude Code Skill
+
+- **Mudra Skill**: [mudra-skill.zip](https://github.com/wearable-devices/mudra-companion-releases/releases/latest/download/mudra-skill.zip)
