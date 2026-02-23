@@ -10,3 +10,7 @@ Download the latest Mudra Companion from the [Releases](https://github.com/weara
 ## Claude Code Skill
 
 - **Mudra Skill**: [mudra-skill.zip](https://github.com/wearable-devices/mudra-companion-releases/releases/latest/download/mudra-skill.zip)
+
+## Agent Protocol
+
+- **Agent Protocol (JSON)**: [agent_protocol.json](https://github.com/wearable-devices/mudra-companion-releases/releases/latest/download/agent_protocol.json)
